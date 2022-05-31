@@ -1,0 +1,2 @@
+## 本来不想同步workspace.xml、target目录和img目录，但为了协作方便所以暂时保留。
+/target/
